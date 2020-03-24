@@ -37,3 +37,9 @@ Now, we need to add our Binance API Key and Secret to the project. To do this, c
 API_KEY
 API_SECRET
 ```
+
+Then, run:
+```
+python3 main.py
+```
+You should see your key and secret print out. And some data that is an actual API call on the Binance API!
