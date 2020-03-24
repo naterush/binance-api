@@ -20,7 +20,7 @@ python3 -m venv .
 ```
 You should see a `bin` and `lib` folder appear (and maybe some other things). We are now ready to "enter the safe box" - aka, run our virutal enviorment. To start the virtual enviorment, run
 ```
-source source bin/activate
+source bin/activate
 ```
 This should add `(binance-api)` to the front of your Terminal prompt! 
 
